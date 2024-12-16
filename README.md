@@ -1,5 +1,5 @@
 <h1 align="center">
-    <p> DoRA: Weight-Decomposed Low-Rank Adaptation <br> [ICML2024 (Oral)]</p>
+    <p> DoRA fork</p>
 </h1>
 
 <h1 align="center"> 
